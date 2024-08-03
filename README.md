@@ -1,0 +1,2 @@
+# chainbase-avs
+test node
